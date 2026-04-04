@@ -15,7 +15,7 @@ The current stack in this workspace tracks Android 16 QPR2 / PixelOS 16.2, with 
 ### Required device specific repositories
 * [**Device tree**](https://github.com/Pixelos-xaga/android_device_xiaomi_xaga) (`android_device_xiaomi_xaga`)
 * [**Device tree(Common)**](https://github.com/Pixelos-xaga/android_device_xiaomi_mt6895-common) (`android_device_xiaomi_mt6895-common`)
-* [**Vendor tree**](https://gitlab.com/itsvixano-dev/android/xiaomi-mt6895-devs/proprietary_vendor_xiaomi_xaga/-/tree/lineage-23.2?ref_type=heads) (`android_vendor_xiaomi_xaga`)
+* [**Vendor tree**](https://gitlab.com/angxddeep/proprietary_vendor_xiaomi_xaga) (`android_vendor_xiaomi_xaga`)
 * [**Vendor tree(Common)**](https://github.com/Pixelos-xaga/proprietary_vendor_xiaomi_mt6895-common) (`proprietary_vendor_xiaomi_mt6895-common`)
 * [**Device kernel tree**](https://github.com/Pixelos-xaga/android_kernel_xiaomi_mt6895) (`android_kernel_xiaomi_mt6895`)
 
