@@ -16,7 +16,7 @@ The current stack in this workspace tracks Android 16 QPR2 / PixelOS 16.2, with 
 * [**Device tree**](https://github.com/Pixelos-xaga/android_device_xiaomi_xaga) (`android_device_xiaomi_xaga`)
 * [**Device tree(Common)**](https://github.com/Pixelos-xaga/android_device_xiaomi_mt6895-common) (`android_device_xiaomi_mt6895-common`)
 * [**Vendor tree**](https://gitlab.com/angxddeep/proprietary_vendor_xiaomi_xaga) (`android_vendor_xiaomi_xaga`)
-* [**Vendor tree(Common)**](https://github.com/Pixelos-xaga/proprietary_vendor_xiaomi_mt6895-common) (`proprietary_vendor_xiaomi_mt6895-common`)
+* [**Vendor tree(Common)**](https://gitlab.com/angxddeep/proprietary_vendor_xiaomi_mt6895-common) (`proprietary_vendor_xiaomi_mt6895-common`)
 * [**Device kernel tree**](https://github.com/Pixelos-xaga/android_kernel_xiaomi_mt6895) (`android_kernel_xiaomi_mt6895`)
 
 
@@ -24,7 +24,7 @@ The current stack in this workspace tracks Android 16 QPR2 / PixelOS 16.2, with 
 * [**MediaTek sepolicy**](https://github.com/LineageOS/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
 * [**MediaTek hardware**](https://github.com/LineageOS/android_hardware_mediatek) (`android_hardware_mediatek`)
 * [**Hardware Xiaomi**](https://github.com/PixelOS-AOSP/android_hardware_xiaomi) (`android_hardware_xiaomi`)
-* [**MIUI Camera**](https://github.com/Pixelos-xaga/miuicamera-xaga) (`miuicamera-xaga`)
+* [**MIUI Camera**](https://gitlab.com/angxddeep/miuicamera-xaga) (`miuicamera-xaga`)
 
 ## Resources
 
