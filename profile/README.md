@@ -22,7 +22,7 @@ The current stack in this workspace tracks Android 16 QPR2 / PixelOS 16.2, with 
 
 ### Other required repositories
 * [**MediaTek sepolicy**](https://github.com/LineageOS/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
-* [**MediaTek hardware**](https://github.com/LineageOS/android_hardware_mediatek) (`android_hardware_mediatek`)
+* [**MediaTek hardware**](https://github.com/pixelos-xaga/android_hardware_mediatek) (`android_hardware_mediatek`)
 * [**Hardware Xiaomi**](https://github.com/PixelOS-AOSP/android_hardware_xiaomi) (`android_hardware_xiaomi`)
 * [**MIUI Camera**](https://gitlab.com/angxddeep/miuicamera-xaga) (`miuicamera-xaga`)
 
